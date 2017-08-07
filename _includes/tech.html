@@ -1,0 +1,30 @@
+
+<div>
+  {% assign counter=0 %}
+  {% for img in page.tech_imgs %}
+
+    {% if counter < 3 %}
+      {% assign img_style='width:24%; height:15%;' %}
+    {% endif %}
+
+    {% if counter >= 3 and counter < 5 %}
+      {% assign img_style='width:35%; height:20%;' %}
+    {% endif %}
+
+    {% if counter >= 5 and counter < 8 %}
+      {% assign img_style='width:24%; height:15%;' %}
+    {% endif %}
+
+    {% if counter >= 8 and counter < 10 %}
+      {% assign img_style='width:35%; height:20%;' %}
+    {% endif %}
+
+    {% if counter >= 10 and counter < 13 %}
+      {% assign img_style='width:24%; height:15%;' %}
+    {% endif %}
+
+    {% assign counter=counter | plus:1 %}
+    <img src='{{ img | prepend: site.baseurl }}'
+       style='{{ img_style }} margin:10px 4% '/>
+  {% endfor %}
+</div>

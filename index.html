@@ -4,14 +4,14 @@ title: My website
 subtitle: This is where I will tell my friends way too much about me
 use-site-title: true
 ---
-<div align="middle">
-<iframe src="https://giphy.com/embed/p9NhUn6tJikta"
-    width="480" height="322" frameBorder="0" class="giphy-embed"
-    allowFullScreen></iframe><p>
+{% comment %}
+  <div style="width:100%;height:0;padding-bottom:67%;position:relative;">
+    <iframe src="https://giphy.com/embed/p9NhUn6tJikta" width="100%"
+    height="100%" style="position:absolute" frameBorder="0" class="giphy-embed"
+     allowFullScreen></iframe></div><p>
     <a href="https://giphy.com/gifs/deadpool-pole-dance-p9NhUn6tJikta">
       via GIPHY</a></p>
-</div>
-
+{% endcomment %}
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">

@@ -160,7 +160,8 @@ img {
   -moz-transition: opacity 0.5s ease-in-out;
   transition: opacity 0.5s ease-in-out;
   left: 50%;
-  width: 50px;
+  // This changes the size of the circle when it's small
+  width: 30px;
   margin-top: -25px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
@@ -186,6 +187,11 @@ img {
   display: none;
 }
 
+@media only screen and (max-width: 768px) {
+  .navbar-custom .avatar-container {
+    width: 50px;
+  }
+}
 @media only screen and (min-width: 768px) {
   .navbar-custom .avatar-container {
     width: 100px;

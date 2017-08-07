@@ -2,6 +2,17 @@
 layout: page
 title: Education
 permalink: /education/
+tech_imgs:
+  - /img/atom-logo.png
+  - /img/aws-logo.png
+  - /img/docker-logo.png
+  - /img/flask-logo-and-name.jpeg
+  - /img/python-logo.png
+  - /img/tux-logo.png
+  - /img/twilio-logo.png
+  - /img/vim-logo.png
+  - /img/web-techs-logos.jpeg
+  - /img/github-logo.jpeg
 ---
 
 ![UW Logo]({{ site.url }}/img/brickUW.png)  
@@ -18,10 +29,8 @@ College of Engineering Dean's Honor List:
 ### Coursework
 Data Structures, Machine Organization & Programming, Digital System Fundamentals, Discrete Math, Circuit Analysis, Signals & Computing, Algorithms, Microprocessor Systems, A.I.  
 
-### Technologies
--pictures here of various tech we have worked with?
-
-
+### Technologies and Tools
+ {% include tech.html %}
 <!---
 ### Online Courses
 --->
