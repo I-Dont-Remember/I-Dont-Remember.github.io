@@ -31,6 +31,6 @@ Data Structures, Machine Organization & Programming, Digital System Fundamentals
 
 ### Technologies and Tools
  {% include tech.html %}
-<!---
+
 ### Online Courses
---->
+_Many on the todo list, but side-projects keep bumping them off the top._
