@@ -18,7 +18,7 @@ tech_imgs:
 ![UW Logo]({{ site.url }}/img/brickUW.png)  
 
 ## B.S. Computer Engineering and Computer Science  
-University of Wisconsin-Madison  
+University of Wisconsin-Madison  *expected May 2019*
 GPA: 3.41 / 4.00  
 College of Engineering Dean's Honor List:  
 
