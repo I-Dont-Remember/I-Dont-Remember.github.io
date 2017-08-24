@@ -14,7 +14,7 @@ tech_imgs:
   - /img/web-techs-logos.jpeg
   - /img/github-logo.jpeg
 ---
-
+{:.center}
 ![UW Logo]({{ site.url }}/img/brickUW.png)  
 
 ## B.S. Computer Engineering and Computer Science  
@@ -33,4 +33,4 @@ Data Structures, Machine Organization & Programming, Digital System Fundamentals
  {% include tech.html %}
 
 ### Online Courses
-_Many on the todo list, but side-projects keep bumping them off the top._
+*Many on the todo list, foremost being Learning How to Learn from Coursera.*

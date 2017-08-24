@@ -686,3 +686,8 @@ td.gutter {
 #social-share-section {
   margin-bottom: 30px;
 }
+
+/*--- My additions ----*/
+.center {
+  text-align: center;
+}
