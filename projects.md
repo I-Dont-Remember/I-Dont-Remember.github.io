@@ -10,14 +10,19 @@ My [Github](https://github.com/I-Dont-Remember) is the best place to view projec
   * Connects the Twilio SMS API with the Google Sheets API to let me input data into my finance sheet when I don't have wifi or my laptop.  Flask server running from a Docker image on AWS, [HighCharts](https://www.highcharts.com/) for the graphs.  Depending on when this is being read, it should have a front end input to the sheet as well as charts to display information from the sheet.  Would like to eventually rework the sheets connection act more like a database, whereas right now the structure of the sheet is what I was using when I was manually inputting all the data.
 
 * ### Copundrum
-  * [Link](https://i-dont-remember.github.io/copundrum/)
+  * [Chat bot](https://i-dont-remember.github.io/copundrum/)
   * Chat bot project from the MadHacks Hackathon (Spring 2017).  Got the Iphone theme from Codepen and created the bot to have a variety of words it watches out for, and if it doesn't know how to process it responds with either a pun or uses the Giphy API to respond with a (hopefully) relevant gif.  We also incorporated the ability for it to play tic tac toe.
 
 * ### This Website
   * Uses a neat theme made for Github pages and Jekyll.
 
+* ### Microprocessors ECE353 Final project
+  <a href='http://www.youtube.com/watch?feature=player_embedded&v=cX48qmks5qg' target='_blank'><img class='center' src='http://img.youtube.com/vi/cX48qmks5qg/0.jpg' alt='YouTube video' width='240' height='180' border='10'/></a>
+  * [Video link](https://www.youtube.com/watch?v=cX48qmks5qg)  
+  * Using a Tiva Launchpad and a number of drivers we helped write over the length of the course, my partner and I decided on the game Missile Command to emulate with our microprocessor.
+
 * ### My Previous Site
-  * [Link](https://i-dont-remember.github.io/PersonalSite/)
+  * [Old site](https://i-dont-remember.github.io/PersonalSite/)
   * First attempt at web development.  Decided on Bootstrap since it made life so much easier, without it I would have been even less of a fan of CSS than I already am.
 
 * ### W.E. Sorter
