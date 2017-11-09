@@ -22,3 +22,6 @@ Joined the club two years ago on a whim to try new things with a couple of frien
 <!--
 Book Club Club Stuff
 -->
+
+### Hackathons
+Once I discovered how fun these are at Madhacks in Spring '17, it's my goal to attend at least one or two every semester for the rest of my college career.  As of Nov. 2017 I've attended Madhacks (Spring and Fall '17), MHacks '17, and HackGT '17.  I would have done more but I have to take a break until Spring semester to concentrate on job applications.

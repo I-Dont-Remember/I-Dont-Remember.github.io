@@ -7,9 +7,10 @@ permalink: /projects/
 My [Github](https://github.com/I-Dont-Remember) is the best place to view projects I have worked on, am working on, or have on my list of want-tos.
 
 
-* Online DB Web Scraper
-  * [Github](https://github.com/I-Dont-Remember/faculty-web-scraperhttps://github.com/I-Dont-Remember/faculty-web-scraper)
-  * Though only a short project, I feel it is worth mentioning because it's not the number of lines or the time spent on a project that make it useful, but it's impact. A friend had been asked to grab a filtered list of names and emails from an online database, which would have taken days (3500ish names) to go through.  I wrote a scraper that both filters out the unneeded depts and sorts the list into a .csv file and delivered them a handy list of 2500 names to their undying gratitude (I got food, totally worth it).
+* ### Web Scraping
+  * [Github](https://github.com/I-Dont-Remember/web-scraping)
+  * *Faculty scraper* - Though only a short project, I feel it is worth mentioning because it's not the number of lines or the time spent on a project that make it useful, but it's impact. A friend had been asked to grab a filtered list of names and emails from an online database, which would have taken days (3500ish names) to go through.  I wrote a scraper that both filters out the unneeded depts and sorts the list into a .csv file and delivered them a handy list of 2500 names to their undying gratitude (I got food, totally worth it).
+  * *IT book downloader* - Website of free technology e-books in pdf form, many looked very interesting so I figured I'd scrape all 7300 titles.  What's the point of having an NFS server if you don't have any files right? :) 
 
 * ### Ansible Laptop Installation
   * [Github](https://github.com/I-Dont-Remember/AnsibleLaptophttps://github.com/I-Dont-Remember/AnsibleLaptop)
