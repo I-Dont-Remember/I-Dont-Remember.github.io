@@ -6,7 +6,7 @@ permalink: /experience/
 
 * __Extreme Engineering Solutions__  
 &nbsp;&nbsp;&nbsp;&nbsp;Associate Embedded Engineer, Linux Team   
-_Co-ops were treated as full members of the team, so there were no special side projects for us.  Was able to work on a wide variety of software and hardware.  A short list includes software releases, finding bug fixes for customer support issues, a Python script using Docker to let employees build initramfs in a virtual environment, instead of having to find a board with the right processor, internal tool feature additions, Linux kernel driver improvements, and more._
+_Co-ops were treated as full members of the team, so there were no burner projects to toil on.  I was able to work with a wide variety of software and hardware technologies, from the linux kernel and U-Boot to working with the Python Flask microframework. My tasks involved software releases, finding bug fixes for customer support issues, a Python wrapper around Docker for easily accessible cross-platform environments such as powerpc/ARM, internal tool feature additions, Linux kernel driver improvements, and anyting else that would benefit the team._
 
 * __UW Athletic Food & Beverage Dept.__  
 &nbsp;&nbsp;&nbsp;&nbsp;Caterer/Bartender/Truck Driver  
