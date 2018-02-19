@@ -6,6 +6,11 @@ permalink: /projects/
 
 My [Github](https://github.com/I-Dont-Remember) is the best place to view projects I have worked on, am working on, or have on my list of want-tos.
 
+* ### Madtown Deals
+  * [Github](https://github.com/I-Dont-Remember/GimmeDeals)
+  * [website](https://madtowndeals.com)
+  * Website to track the many regular deals that exist only on chalkboards or rarely updated bar websites.  Serverless API with Go and AWS services, see the [blog post](https://i-dont-remember.github.io/2018-02-16-deals/) for more information.
+
 * ### Gymnastics Text
   * [Github](https://github.com/frizzkitten/gymnastics-text)
   * This service allows the UW Gymnastics Club to interact with our carpool Google Sheet using SMS rather than relying on having data/wifi.  My friends wanted to take the lead on making the Node app, so I worked on setting up an easy work environment with Docker and a local run Bash script, as well as taking care of the app deployment details and testing setup.
