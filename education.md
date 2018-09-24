@@ -19,15 +19,16 @@ tech_imgs:
 
 ## B.S. Computer Engineering and Computer Science  
 University of Wisconsin-Madison  *expected May 2019*
-GPA: 3.41 / 4.00  
+GPA: 3.45 / 4.00  
 College of Engineering Dean's Honor List:  
 
 * Spring 2016
 * Fall 2016
-* Spring 2017  
+* Spring 2017
+* Spring 2018 
 
 ### Coursework
-Data Structures, Machine Organization & Programming, Digital System Fundamentals, Discrete Math, Circuit Analysis, Signals & Computing, Algorithms, Microprocessor Systems, A.I.  
+Data Structures, Networks, Algorithms, A.I., Computer Architecture, Machine Organization & Programming, Digital System Fundamentals, Discrete Math, Circuit Analysis, Signals & Computing, Microprocessor Systems, Microprocessor Lab
 
 ### Technologies and Tools
  {% include tech.html %}

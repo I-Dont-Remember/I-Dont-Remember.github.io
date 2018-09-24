@@ -16,9 +16,8 @@ My [GitHub](https://github.com/I-Dont-Remember) is the best place to view projec
   * As part of this course, we are formed into groups around proposals and my SMS Information Hub idea that we prototyped as LifeText *(see below)* was selected. We decided the most user-friendly and space efficient (since texts are small and expensive through Twilio) would be to have an app that handles structuring and sending/receiving messages so the user only has to care about what information they actually want.  It is a React-Native app with a Django server for the backend.
 
 * ### Madtown Deals
-  * [GitHub](https://github.com/I-Dont-Remember/GimmeDeals)
   * [Website](https://madtowndeals.com)
-  * Website to track the many regular deals that exist only on chalkboards or rarely updated bar websites.  Serverless API with Go and AWS services, see the [blog post](https://i-dont-remember.github.io/2018-02-16-deals/) for more information.
+  * Website to track the many regular deals that exist only on chalkboards or rarely updated bar websites.  Serverless API with Go and AWS services using the Serverless framework, see the [blog post](https://i-dont-remember.github.io/2018-02-16-deals/) for more information.
 
 * ### Gymnastics Text
   * [GitHub](https://github.com/frizzkitten/gymnastics-text)
