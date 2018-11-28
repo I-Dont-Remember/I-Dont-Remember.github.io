@@ -7,8 +7,8 @@ permalink: /projects/
 My [GitHub](https://github.com/I-Dont-Remember) is the best place to view projects what I am currently working on.
 
 * ### ECE 551 Digital System Design and Synthesis Project: Digit Recognizing Simple Neural Network
-  * [Project Spec](/assets/551-project-spec.pdf)
-  * Neural network on an fpga to detect hand-written digits.
+  * Neural network on an fpga to detect hand-written digits.  Our professor handled creating the scaffolding of the input/output
+  and generating the weights, then our group built all of the central logic for detection.
 
 * ### CS 506 Software Engineering Project: Lucidata - the SMS Information Hub, Part 2
   * [Github - App](https://github.com/frizzkitten/lucidataReact)
